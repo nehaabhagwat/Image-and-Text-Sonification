@@ -23,8 +23,7 @@ maxVolume = 127
 setVolume = 90 # pre defined volume for all notes
 
 ##### read in image (origin (0, 0) is at top left)
-image = Image("preview.jpg")
-# Image Reference : <a href="https://www.freepik.com/free-vector/grayscale-optical-pattern_820996.htm">Designed by Freepik</a>
+image = Image("Enter path to input image.")
 
 
 width = image.getWidth()
