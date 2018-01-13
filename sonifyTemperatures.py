@@ -5,7 +5,8 @@
 from music import *
 import collections
 
-filename = "1116082.csv"
+# Enter the path to the file that contains temperature data to be sonified
+filename = ""
 
 dataset = open(filename, "r")
 
